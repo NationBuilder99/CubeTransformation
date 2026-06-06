@@ -17,4 +17,4 @@ A Unity 3D game demonstrating cube transformation, circular motion, and camera p
 This project explores object transformation, motion, and perspective in a 3D game environment using Unity
 
 ## Author
-Abdul Rashid Yakubu
+Yakubu Abdul Rashid 
